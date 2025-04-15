@@ -1,4 +1,4 @@
-Example MCP Server for Disc Golf Info
+Example MCP Server using Frisbee Info from Discit API
 =========================
 
 Clone
