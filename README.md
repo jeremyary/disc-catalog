@@ -1,4 +1,4 @@
-Example MCP Server using Frisbee Info from Discit API
+Example MCP Server using Discit API
 =========================
 
 Clone
