@@ -11,7 +11,7 @@ cd disc-catalog
 Prerequisite(s)
 ---------------------------
 
-Prior to running the app, create a local `.env` file & add your Anthropic API token - credit will be required! (approx 1 cent per query)
+Prior to running the app, create a local `.env` file & add your Anthropic API token - credit will be required as Claude is currently the LLM in use. (approx 1 cent per query)
 
 ```bash
 touch .env
